@@ -1,0 +1,17 @@
+.jumbotron {
+  text-align: center;
+  background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Library-Background-by-vladstudio-PIC-WPD001974.jpg");
+  height: 25rem;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container-fullwidth {
+  height: 100%;
+}
+
+body {
+  background-image: url("https://drshefali.com/wp-content/uploads/2017/01/yellow-background-14046115834KP.jpg");
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
