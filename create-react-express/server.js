@@ -13,8 +13,6 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
 
-// Define API routes here
-
 app.use(routes);
 
 mongoose
